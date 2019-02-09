@@ -1,10 +1,10 @@
 // {
 //   "presets": ["transform-runtime", 
-//     ["env", "stage-0"],["es2015", { "modules": false }]
+//    ["es2015", { "modules": false }]
 //   ],
 //   "plugins": [["component", [{"libraryName": "mint-ui","style": true}]]]
 // }
 {
-  "presets": ["env", "stage-0"],
+  "presets":  ["env", "stage-0"],
   "plugins": [["component", [{"libraryName": "mint-ui","style": true}]]]
 }
