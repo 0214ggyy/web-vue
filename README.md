@@ -75,3 +75,6 @@ module.exports={
 {
   "presets": ["env", "stage-0"]
 }
+
+## 传统命令 
+    git add .       git commit -m "修改内容"   git push  
